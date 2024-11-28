@@ -22,6 +22,7 @@
 <br />
 
 **See [tamagui.dev](https://tamagui.dev) for documentation.**
+## BY Mudassir Alam
 
 Tamagui lets you share more code between web and native apps without sacrificing the two things that typically suffer when you do: performance and code quality.
 
